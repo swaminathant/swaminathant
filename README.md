@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swaminathant
 - 👀 I’m interested in AI and deeplearning
-- 🌱 I’m currently molding in AI
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to collaborate on mulitple AI projects
+- 🎹 I love music and i'm kalimba player 
 - 📫 Reach me at sysswaminathan@gmail.com
 
 <!---
